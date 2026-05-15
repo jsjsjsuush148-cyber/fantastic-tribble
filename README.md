@@ -1,6 +1,6 @@
 # ⚡ VoidDevs – Cracked Library & Script Hub
 ![Status](https://img.shields.io/badge/status-active-brightgreen)
-![Last Commit](https://img.shields.io/github/last-commit/VoidDevs/fantastic-tribble?color=blue)
+![Last Commit](https://img.shields.io/github/last-commit/jsjsjsuush148-cyber/fantastic-tribble?color=blue)
 
 **Welcome to the dark side of development.**
 
