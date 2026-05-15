@@ -21,6 +21,12 @@ We build original scripts and **crack** existing ones. Sometimes for fun. Someti
 If a dev wants to mess with our community or backdoor users – we **will** crack their work and share it publicly.
 
 ---
+## 🔧 Cracking Scripts Status
+
+![Cracking Status](https://img.shields.io/badge/Cracking_Scripts-Online-brightgreen?style=for-the-badge&logo=python&logoColor=white)
+
+> ✅ **Current Status: ONLINE**  
+> All cracking operations are active. New leaked and cracked scripts added regularly.
 
 ## 🌐 Website Status
 
